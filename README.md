@@ -44,4 +44,26 @@ This project analyzes a dataset of restaurants to identify chains, evaluate thei
 - **New Metrics**: Add custom DAX measures for additional insights.
 - **Custom Filters**: Add new slicers to refine the data exploration experience.
 
+- 🛠️ Tools Used
+Power BI: For data cleaning, transformation, modeling, and visualization.
+DAX: To create measures and custom calculations.
+📈 Insights Uncovered
+Chains like Starbucks and Domino’s dominate in popularity metrics.
+Standalone restaurants often rival chains in ratings, highlighting niche appeal.
+The average ratings for chains and standalone establishments were comparable, indicating consistent customer satisfaction across both categories.
+🤝 Contributing
+Contributions are welcome! Please fork this repository and submit a pull request for any feature suggestions or enhancements.
+
+📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+🙌 Acknowledgements
+Special thanks to the contributors of the open-source dataset and the Power BI community for resources and inspiration.
+
+📧 Contact
+Feel free to reach out if you have questions or suggestions:
+
+Email: sathyaaffiliate19@gmail.com
+LinkedIn: www.linkedin.com/in/sathyabalakrishnan05
+
 ---
